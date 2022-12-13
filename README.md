@@ -9,19 +9,22 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Mircosft Remote Desktop
 - Proton Virtual Private Network
+- Powershell
+- Windows Command Prompt
 
 <h2>Operating Systems Used </h2>
-
+- Ubuntu Server 20.04
 - Windows 10 (21H2)
 
 <h2>High-Level Steps</h2>
 
 - Remote Desktop into VM
-- Observe IP of Azure VM
-- Download/Install Proton VPN
-- Observe IP of Azure VM with VPN installed
+- Download and Install Proton VPN
+- Ping Linux VM using Powershell
+- Connect to Linux VM via SSH 
+- Using Command Prompt type mulitple Linux commands
 
 <h2>Actions and Observations</h2>
 
