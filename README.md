@@ -34,7 +34,7 @@ On the host VM lookup the IP address of the host VM on whatismyipaddress.com.
 <br />
 
 <p>
-<img src="https://i.imgur.com/j91R2vn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zkFZ7Ak.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, download and install Proton VPN and connect to a VPN server out in another region/country.
