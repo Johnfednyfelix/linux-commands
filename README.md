@@ -42,7 +42,7 @@ Next, download and install Proton VPN and connect to a VPN server out in another
 <br />
 
 <p>
-<img src="https://i.imgur.com/JjQLk8u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c1OIKj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After connecting to a VPN server out in another country lookup the IP address of the VM once again, however this time the IP should be different now that you've connected to the VPN.
