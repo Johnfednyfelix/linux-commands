@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/StEBVLU.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Proton Virtual Private Network Configuration</h1>
+<h1>Linux Command Analyzation using VPN</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
