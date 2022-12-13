@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/XZ11aVX.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/StEBVLU.png" alt="Traffic Examination"/>
 </p>
 
 <h1>Proton Virtual Private Network Configuration</h1>
@@ -26,7 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/9w8YaI4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x6DvRKY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 On the host VM lookup the IP address of the host VM on whatismyipaddress.com.
