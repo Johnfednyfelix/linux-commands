@@ -33,7 +33,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/x6DvRKY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the host VM lookup the IP address of the host VM on whatismyipaddress.com.
+After setting up your Virtual Machines in Azure login to VM1 (Windows 10) with the Public IP Address given by Azure. Once logged in open up Microsft Edge and head to https://protonvpn.com create a free account and then download the software for Windows. Afer the downloading open up the Software and login again with your user information. Once inside the software connect to any of the 3 regions (Japan, United States and Netherlands) associated with the free account and connect to any of the selected regions VPN servers.
 </p>
 <br />
 
