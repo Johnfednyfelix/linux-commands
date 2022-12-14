@@ -3,7 +3,7 @@
 </p>
 
 <h1>Linux Command Analyzation using VPN</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we check for connectivity to and from with our Azure Virtual Machines while hooked up to a Virtual Private Network, as well as experiment using multiple Linux commands. <br />
 
 
 <h2>Environments and Technologies Used</h2>
