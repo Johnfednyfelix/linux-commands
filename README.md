@@ -49,6 +49,6 @@ In this demonstration the region of choice connected to is the Netherlands. Afte
 <img src="https://i.imgur.com/c1OIKj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that the connection between the two VMs have been established, using the Command Prompt in the Windows VM1 connect into VM2 via SSH Protocol. In this demonstration 'ssh labuser@10.0.0.5' is typed in on the command line to connect to VM2 with SSH. Once connected you can utilize various of Linux commands (ls -lasth, pwd, uname -a)  and observe the feedback generated once punched in.
+Now that the connection between the two VMs have been established, using the Command Prompt in the Windows VM1 connect into VM2 via SSH Protocol. In this demonstration 'ssh labuser@10.0.0.5' is typed in on the command line to connect to VM2 with SSH. Once connected you can utilize various of Linux commands (ls -lasth, pwd, uname -a, etc)  and observe the feedback generated once punched in.
 </p>
 <br />
