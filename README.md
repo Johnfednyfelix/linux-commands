@@ -41,7 +41,7 @@ After setting up your Virtual Machines in Azure login to VM1 (Windows 10) with t
 <img src="https://i.imgur.com/zkFZ7Ak.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, download and install Proton VPN and connect to a VPN server out in another region/country.
+In this demonstration the region of choice connected to is the Netherlands. After connecting to a VPN server in the Netherlands open up Powershell, go back into the Azure portal on your actual computer then copy the private IP address of VM2, go back into Remote Desktop and on the Powershell command line ping VM2 (Linux) with the private IP address to check for connectivity. In this demonstration the protocol 'ping (Ip Address) -t' is used to send and recieve infinite data packets between VM1 and VM2 which is a sign that the connection has been established.
 </p>
 <br />
 
