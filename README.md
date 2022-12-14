@@ -15,8 +15,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Windows Command Prompt
 
 <h2>Operating Systems Used </h2>
-- Ubuntu Server 20.04
 
+- Ubuntu Server 20.04
 - Windows 10 (21H2)
 
 <h2>High-Level Steps</h2>
