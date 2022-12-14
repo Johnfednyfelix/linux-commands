@@ -49,6 +49,6 @@ In this demonstration the region of choice connected to is the Netherlands. Afte
 <img src="https://i.imgur.com/c1OIKj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After connecting to a VPN server out in another country lookup the IP address of the VM once again, however this time the IP should be different now that you've connected to the VPN.
+Now that the connection between the two VMs have been established, using the Command Prompt in the Windows VM1 connect into VM2 via SSH Protocol. In this demonstration 'ssh labuser@10.0.0.5' is typed in on the command line to connect to VM2 with SSH. Once connected you can utilize various of Linux commands (ls -lasth, pwd, uname -a)  and observe the feedback generated once punched in.
 </p>
 <br />
